@@ -16,7 +16,7 @@
 
   }
   .header-content h1{
-    font-size: 7vmin;
+    font-size: 10vmin;
   }
 
   .nav-links{
@@ -57,14 +57,14 @@
 }
 
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 70%){
   header .container{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 100%){
   .description{
     width: 50%;
   }
