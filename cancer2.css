@@ -92,7 +92,7 @@ img{
 }
  
 #logo{
-  justify-content: space-between;
+   justify-content: space-between;
     height: 100px;
     width: 260px;
     top: 0;
@@ -165,6 +165,7 @@ header h1, header h3{
     background: #b82207;
     border-radius: 30px;
     color:antiquewhite;
+    display: block;
 }
  
 .menu-btn{
