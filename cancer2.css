@@ -122,10 +122,8 @@ header{
     justify-content: center;
     text-decoration: none;
 }
-header a{
-    flex-direction: row;
-    
-}
+header { display: flex; flex-direction: row; /* coloca o menu ao lado da logo */ align-items: center; /* alinhando o menu ao centro do container */ justify-content: space-between; /* adicionando um espaço entre o menu e a logo */}
+header nav a { text-decoration: none; font-size: 20px; font-family: Poppins;}
 header h1, header h3{
     color: #fff;
 }
