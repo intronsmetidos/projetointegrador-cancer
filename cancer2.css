@@ -37,10 +37,13 @@ img{
 
 #hr{
   color: #fff;
+  max-width:100%;
 }
 
 #ref{
   font-size: 15px;
+  max-width:95%;
+  margin:10px;
   color: #fff;
 }
 
