@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: linear-gradient( #d4145a, #fbb03b);
+    background-image: linear-gradient( to right, #d4145a, #fbb03b);
     color: #fff;
     font-family: 'Gill Sans', 'Gill Sans MT';
     max-width: 100%;
@@ -42,8 +42,7 @@ img{
 
 #ref{
   font-size: 15px;
-  max-width:90%;
-  min-height:20%;
+  width:80%;
   margin:10px;
   color: #fff;
 }
