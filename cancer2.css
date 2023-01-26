@@ -42,7 +42,8 @@ img{
 
 #ref{
   font-size: 15px;
-  width:80%;
+  width:90%;
+  text-align: center;
   margin:10px;
   color: #fff;
 }
@@ -122,7 +123,8 @@ header{
     text-decoration: none;
 }
 header a{
-    flex-direction: column;
+    flex-direction: row;
+    
 }
 header h1, header h3{
     color: #fff;
