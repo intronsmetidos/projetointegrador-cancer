@@ -40,7 +40,7 @@ let height = window.innerHeight;
 let textSize = 0;
 let textCenter = 0;
 const letters = [];
-const prompt = ['s', 't', 'a', 'r', 't', ' ', 't', 'y', 'p', 'i', 'n', 'g'];
+const prompt = ['i', 'n', 't', 'r', 'o', 'n','s' ' ', 'm', 'e', 't', 'i', 'd', 'o', 's'];
 let runPrompt = true;
 
 const resizePage = () => {
